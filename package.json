@@ -7,6 +7,9 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
+    "@nuxt3-graphql/urql": "^0.4.0",
+    "@urql/vue": "^0.6.4",
+    "graphql": "^15.8.0",
     "nuxt": "3.0.0-rc.8"
   }
 }
